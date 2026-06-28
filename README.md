@@ -9,3 +9,9 @@ Desenvolver uma landing page inspirada no vilarejo de **Bibury**, na Inglaterra.
 ## 📝 Observação
 
 Este projeto foi desenvolvido em pouco tempo e teve como principal objetivo atender aos requisitos propostos pelo desafio. Por isso, o foco esteve na aplicação dos conceitos de **HTML** e **CSS**, como organização semântica, navegação por âncoras e estilização da interface, sem um planejamento mais elaborado do layout ou da identidade visual.
+
+## 🚀 Resultado
+
+Acesse a versão publicada do projeto:
+
+🔗 https://hiagobelem.github.io/landing-page-viagens/
